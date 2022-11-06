@@ -571,6 +571,13 @@ The components of the browsers are:
   support storage mechanisms such as localStorage, IndexedDB, WebSQL and
   FileSystem.
 
+Architecture of Web Browser
+---------------------------
+
+The architecture of a web browser has certain components. They are Controller/Dispatcher, Interpreter, and Client Programs. The control unit in a CPU is a controller that takes in the input, interprets it, and then instructs the device to work in a certain way.
+
+The interpreter receives this info from the controller to get ahead in the given task step by step. Lastly, the client program has sets of protocols to complete a particular service. Some common names other than HTTP are - SMTP, FTP, etc.
+
 HTML parsing
 ------------
 
